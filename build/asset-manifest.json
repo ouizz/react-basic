@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactapiweb/static/css/main.df905ad0.css",
+    "main.js": "/reactapiweb/static/js/main.fe3caaef.js",
+    "index.html": "/reactapiweb/index.html",
+    "main.df905ad0.css.map": "/reactapiweb/static/css/main.df905ad0.css.map",
+    "main.fe3caaef.js.map": "/reactapiweb/static/js/main.fe3caaef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df905ad0.css",
+    "static/js/main.fe3caaef.js"
+  ]
+}
